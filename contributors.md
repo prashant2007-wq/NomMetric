@@ -7,6 +7,7 @@
 |Mani kanta|MANI8148|IIITA|IIT2024131|1|
 | Omdeep | omicoded19 | IIITA | IEC2024059 | 1 |
 | Varad Singhal | VaradSinghal | SRMIST | RA2411003011798 | 1 |
+| Sayed Al Amaan Zaidi| amaan1114 | RU | 2501010416 | 1 |
 | Khushi | khushishorey | IIITA | IIT2024244| 1 |
 | Manisha | chanchukatariya5 | IIITA | IIT2025275 | 1 |
 | Hasan Ravda | hasanravda | DDU,Nadiad | 24CEUOF910 | 1 |
