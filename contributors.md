@@ -25,5 +25,6 @@
 | Yuvaraj Ragothaman | LevelSilence | IIITA | IEC2024051 | 1 |
 | Naman Pal | Naman2251 | IIITA | IIT2025019 | 1 |
 | Himansh Arora | Humanshere | IIITA | IIB2024025 | 1 |
+|Ashutosh kesarwani | Lucifer-0612 | HIT HALDIA | 10300124056 | 1 |
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
