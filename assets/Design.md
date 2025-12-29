@@ -23,7 +23,6 @@ Design the **NomMetric logo and splash screen** that define the visual identity 
 ### Accepted Submissions
 (Shortlisted designs merged from competitive PRs)
 
-- _No submissions shortlisted yet_
 
 > Note: Being listed here means the design met the issue requirements and was accepted as part of the competitive selection process.  
 > The contributor will be awarded the defined points accordingly.  
@@ -61,6 +60,9 @@ It **does not** contain any details regarding visual designs yet.
 - **Design Link:** https://www.figma.com/make/1i5d6pfFL7HYHHqwspgGGd/Design-App-Logo-and-Splash-Screen?fullscreen=1 
 - **Notes:** The design is minimal, professional, and perfectly suited for a college mess tracking app 
 
+- **Contributor:** Siddhant Shekhar
+- **Design Link:** https://www.figma.com/design/udeUbTALeSmwtNTNn82oR3/Untitled?node-id=0-1&t=vPxriFgaqxoZef28-1
+- **Notes:** Clean and modern authentication UI designed for campus users, with consistent Login and Register screens, clear input hierarchy, and simple navigation flow.
 
  **Contributor:** Omdeep Masram
  **Design Link:** https://www.figma.com/design/fqaRKKB9JuYHxFqjn04uHf/Untitled?node-id=0-1&t=AWOHdXknzkvxDJPv-1
